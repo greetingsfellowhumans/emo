@@ -4,6 +4,8 @@ An Emoji fuzzy finder in your terminal
 Automatically copies the selected emoji to your clipboard.
 Ultra-minimalistic. Easily add your own.
 
+[!https://github.com/user-attachments/assets/939e21bb-c53e-41cc-a09a-0394f2891022](https://github.com/user-attachments/assets/939e21bb-c53e-41cc-a09a-0394f2891022)
+
 ## Requirements
 
 - [xsel](https://github.com/kfish/xsel)
