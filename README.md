@@ -14,14 +14,23 @@ Ultra-minimalistic. Easily add your own.
 
 ## Install
 
-1. Clone this repo.
-`> git clone https://github.com/greetingsfellowhumans/emo ~/emo`
+Clone this repo.
 
-2. Add it to your .bashrc
-`. ~/Repos/emo/emo.sh`
+```bash
+> git clone https://github.com/greetingsfellowhumans/emo ~/emo
+```
 
-3. Restart your shell and test it.
-`> emo`
+Add it to your .bashrc
+
+```bash
+. ~/emo/emo.sh`
+```
+
+Restart your shell and test it.
+
+```bash
+> emo
+```
 
 ## Custom emojis
 
